@@ -1,4 +1,4 @@
-package Factory;
+package factory;
 
 import entity.Group;
 import entity.Professor;

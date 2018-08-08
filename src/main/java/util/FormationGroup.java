@@ -1,7 +1,7 @@
 package util;
 
-import Factory.GroupFactory;
-import Factory.StudentFactory;
+import factory.GroupFactory;
+import factory.StudentFactory;
 import entity.Group;
 import entity.Student;
 

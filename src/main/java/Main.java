@@ -1,8 +1,8 @@
-import Factory.ProfessorFactory;
+import factory.ProfessorFactory;
 import entity.Group;
 import util.FormationGroup;
 
-public class main {
+public class Main {
 
     public static void main(String[] args) {
 
